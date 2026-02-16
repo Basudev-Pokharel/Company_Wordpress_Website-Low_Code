@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//my-first-wordpress-app.lndo.site/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://my-first-wordpress-app.lndo.site/post-sitemap.xml</loc>
+		<lastmod>2026-02-16T11:48:08+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://my-first-wordpress-app.lndo.site/page-sitemap.xml</loc>
+		<lastmod>2026-02-16T11:50:28+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://my-first-wordpress-app.lndo.site/metform-form-sitemap.xml</loc>
+		<lastmod>2026-02-15T21:17:18+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://my-first-wordpress-app.lndo.site/category-sitemap.xml</loc>
+		<lastmod>2026-02-16T11:48:08+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
