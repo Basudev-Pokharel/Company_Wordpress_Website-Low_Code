@@ -5,7 +5,8 @@ This project represents a modern, responsive, and performance-focused business w
 
 ---
 
-Live Link: [CLick to view](https://vws-smoky.vercel.app/)
+Live Link: [CLick to view](https://vws-digital.vercel.app/)
+**This is a static site generated from a WordPress project and deployed on Vercel.**
 
 ## 🌐 Project Overview
 
